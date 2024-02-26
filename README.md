@@ -9,7 +9,7 @@ You can find a playlist of videos about git by [link](https://www.youtube.com/wa
 ﻿﻿*CSS
 ﻿﻿*JavaScript
 
-file = open('example.txt', 'r')
+file - open('example.txt', 'r')
 content = file.read()
 print(content)
 file.close()
