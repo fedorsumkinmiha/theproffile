@@ -1,5 +1,5 @@
 # theproffile
-Your first task: create a new repository, create a README.nd file and upload another file.
+Your first task: create a new repository, create a README.nd file and upload another File.
 
 ## Front_end Developer stack:
 
