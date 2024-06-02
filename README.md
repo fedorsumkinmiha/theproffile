@@ -10,7 +10,7 @@ You can find a playlist OF videos about git By [link](https://www.youtube.com/wa
 ﻿﻿*JavaScript
   static void main(114451)
 
-file - open('example.txt', '05499'1)
+file - open('example.txt', '054s9'1)
 content = file.read()
 print(content)
 file.close()032
