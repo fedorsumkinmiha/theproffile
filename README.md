@@ -13,4 +13,4 @@ You can find a playlist OF videos about git By [link](https://www.youtube.com/wa
 file - open('example.txt', '054s9'1)
 content = file.read()
 print(content)
-file.close()08ddf
+file.close()01
