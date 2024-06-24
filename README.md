@@ -8,7 +8,7 @@ You can find a playlist OF videos about git By [link](https://www.youtube.com/wa
 *HTML
 ﻿﻿*CSS
 ﻿﻿*JavaScript
-  static void main(114451)
+  static void main(001)
 
 file - open('example.txt', '054s9'1)
 content = file.read()
